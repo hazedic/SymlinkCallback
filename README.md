@@ -1,6 +1,7 @@
 # SymlinkCallback
 
 Write-ups: https://windows-internals.com/dkom-now-with-symbolic-links/
+           
            https://windows-internals.com/symhooks-part-two/
            
 This driver uses the option to set a dynamic target for a symbolic link and hooks the symlink of the C: volume.
